@@ -1,2 +1,2 @@
-### Hi there, I am Remy 👋 
-💡 I love computers.
+### Hi, I am Remy 👋 
+I love computers.
