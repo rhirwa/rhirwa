@@ -1,2 +1,2 @@
 #### Hi, I am Remy 👋 
-I love computers.
+Check out what I've been working on.
